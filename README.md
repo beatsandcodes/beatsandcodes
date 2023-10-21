@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently Learning Fullstack web development
+
 <!--
 **beatsandcodes/beatsandcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
