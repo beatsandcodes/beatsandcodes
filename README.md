@@ -2,7 +2,7 @@
 
 I’m building **AI-powered products** at the intersection of **technology, design, and real-world problems**.
 
-Previously, I worked in **social media and music production** — where I learned how people think, what captures attention, and how digital products actually get used.
+Previously, I worked in **social media management and music production** where I learned how people think, what captures attention, and how digital products actually get used.
 
 Now, I’m applying that understanding to **software, UI/UX, and intelligent systems**.
 
