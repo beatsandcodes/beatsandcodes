@@ -28,7 +28,7 @@ I’m focused on building products that are:
 * Simple, clean user experience (no overwhelming jargon)
 * Designed for everyday users, not just experts
 
-This is my current flagship project — built with the goal of turning **AI into something genuinely useful in daily life**.
+This is my current flagship project built with the goal of turning **AI into something genuinely useful in daily life**.
 
 ---
 
@@ -84,8 +84,8 @@ If you're building something meaningful, I’d like to be part of it.
 
 This GitHub is a **live build log**.
 
-You’ll see ideas, experiments, and evolving projects — not just polished outcomes.
+You’ll see ideas, experiments, and evolving projects, not just polished outcomes.
 
 ---
 
-> *I’m not here just to learn tech — I’m here to build things people actually use.*
+> *I’m not here just to learn tech. I’m here to build things people actually use.*
